@@ -2,9 +2,6 @@
     "autoclose": false,
     "colorscheme": "hbuke256",
     "eofnewline": false,
-    "ft:py": {
-        "tabsize": 4
-    },
     "keepautoindent": true,
     "savecursor": true,
     "saveundo": true,
