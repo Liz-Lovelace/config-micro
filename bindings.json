@@ -23,6 +23,8 @@
     "Alt-,": "SpawnMultiCursorDown",
     "CtrlAlt-l": "ParagraphPrevious",
     "CtrlAlt-k": "ParagraphNext",
+    "CtrlAlt-u": "CursorStart",
+    "CtrlAlt-p": "CursorEnd",
     "CtrlUnderscore": "lua:comment.comment",
     "Down": "CursorDown",
     "End": "EndOfLine",
