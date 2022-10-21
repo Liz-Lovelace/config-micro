@@ -10,6 +10,7 @@
     },
     "autoclose": false,
     "colorscheme": "hbuke256",
+    "diffgutter": true,
     "eofnewline": false,
     "hlsearch": true,
     "linter": false,
@@ -17,8 +18,6 @@
     "savecursor": true,
     "saveundo": true,
     "scrollbar": true,
-    "softwrap": true,
-    "statusline": false,
     "tabsize": 2,
     "tabstospaces": true,
     "wordwrap": true
