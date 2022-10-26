@@ -8,6 +8,9 @@
     "*.rs": {
         "tabsize": 4
     },
+    "*.xsh": {
+        "filetype": "python"
+    },
     "autoclose": false,
     "colorscheme": "hbuke256",
     "diffgutter": true,
