@@ -1,6 +1,6 @@
 {
     "*.md": {
-        "tabsize": 4
+        "tabsize": 2
     },
     "*.py": {
         "tabsize": 4
@@ -12,6 +12,7 @@
         "filetype": "python"
     },
     "autoclose": false,
+    "colorcolumn": 3,
     "colorscheme": "hbuke256",
     "diffgutter": true,
     "eofnewline": false,
@@ -21,6 +22,7 @@
     "savecursor": true,
     "saveundo": true,
     "scrollbar": true,
+    "softwrap": true,
     "tabsize": 2,
     "tabstospaces": true,
     "wordwrap": true
